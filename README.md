@@ -1,4 +1,15 @@
 
+Instalare:
+
+* ( clonat local )
+* pip -m venv env
+* source env/bin/activate
+* pip install -r requirements.txt
+*
+
+Rulare:
+python3 main.py
+
 
 
 Comparatie intre imaginea originala si imaginea compresata:
